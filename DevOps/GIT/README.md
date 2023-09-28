@@ -149,7 +149,10 @@ git branch -u <remote_name>/<remote_branch>
 git push -u <remote_name> <local_branch>
 # Remove the tracking association between a local and a remote branch
 git branch --unset-upstream <branch_name>
-Commit History
+```
+
+# Commit History
+```bash
 # Show commit history
 git log
 # Display a condensed commit history
